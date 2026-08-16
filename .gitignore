@@ -1,0 +1,16 @@
+# Simulation & Waveform dumps
+*.vcd
+*.fst
+*.out
+sim/counter_sim
+sim/sim_if
+
+# Compilers and build folders
+build/
+obj_dir/
+*.elf
+*.bin
+*.hex
+
+# OS files
+.DS_Store
